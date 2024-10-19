@@ -42,7 +42,7 @@ Follow the steps below to set up and run the project:
 ### Clone the Repository and run the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/meissa20/backup_restore_project.git
 cd backup-restore-project/build
 make backup
 make restore
