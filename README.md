@@ -31,6 +31,7 @@ To run this project on Ubuntu, you need the following tools installed:
 
 1. Bash: The scripts are written in Bash, which should be available on any Unix-based system.
 2. CMake: Used for automating the build process. Install it by running:
+
    ```bash
    sudo apt-get install cmake
    sudo apt-get install build-essential
