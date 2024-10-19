@@ -1,0 +1,4 @@
+/home/vboxuser/project/build/CMakeFiles/run_backup.dir
+/home/vboxuser/project/build/CMakeFiles/run_restore.dir
+/home/vboxuser/project/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/project/build/CMakeFiles/rebuild_cache.dir
